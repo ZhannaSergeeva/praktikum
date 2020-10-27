@@ -2,6 +2,7 @@
 | Название проекта      | Описание                                   | Инструментарий                         |
 | --------------------- |--------------------------------------------| ---------------------------------------|
 | [Продажа квартир](https://github.com/ZhannaSergeeva/praktikum/tree/main/Real_market_analysis)| Исследование объявлений о продаже квартир  | pandas, matplotlib, pymystem3, seaborn |
+| [Определение перспективного тарифа](https://github.com/ZhannaSergeeva/praktikum/tree/main/Perspective_tariff)| Определение выгодного тарифа для телеком компании| pandas, scipy, matplotlib, numpy, seaborn |
 
 ## Репозиторий проектов Яндекс.Практикума по направлению "Специалист по Data Science".
 | Название проекта      | Описание                                   | Инструментарий              |
